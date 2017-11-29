@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 29th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gillian Kamerer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was meant to teach students how to create a weather web app that uses an API key. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gilliankamerer.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The API key gives the web app access to online data.
+2. If an apostrophe is missing from a part of the code that is not commented, it could cause a function to malfunction.
+3. Copying and pasting is a must when dealing with repetetive code!
